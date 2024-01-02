@@ -24,29 +24,6 @@
   color: white;
 }
 
-.square {
-  font-size: xx-large;
-  font-weight: bold;
-  width: 40px;
-  height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden; /* Ensure that content doesn't overflow */
-}
-
-.board-row {
-  display: flex;
-}
-.content {
-  width: 100%;
-  text-align: center;
-}
-
-.container {
-  padding: 40px 40px;
-}
-
 .App-link {
   color: #61dafb;
 }
